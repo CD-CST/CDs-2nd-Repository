@@ -1,3 +1,4 @@
 Football
 Computer Science
-Cybersecuirty
+Cybersecurity
+Beta 2
